@@ -1,0 +1,97 @@
+h1{
+	text-align: center;
+    color: white;
+    margin-right: -296px;
+    font-size: 62px;
+    margin-top: -176px;
+    margin-bottom: -29px;
+}
+h2{
+	text-align: center;
+	color: #8bad8b;
+	font-size: 52px;
+}
+h3{
+    margin-left: 83px;
+    color: white;
+    font-size: 95px;
+    margin-top: 18px;
+}
+h4{
+    color: #0e2d27;
+    font-size: 42px;
+    margin-top: -107px;
+    margin-left: 83px;
+}
+body{
+	background-color: #0e2d27;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.logo{
+	border-radius: 90%;
+	margin-left: 279px;
+	margin-top: 45px;
+}
+.cont1{
+	background-color: #8bad8b;
+	margin-left: -5px;
+    margin-right: -40px;
+	margin-top: 114px;
+	cursor: pointer;
+
+
+}
+.cont2{
+	background-color: #0e2d27;
+	margin-left: -8px;
+    margin-right: -8px;
+    margin-bottom: -8px;
+	font-size: 25px;
+	text-align: center;
+	margin-top: 100px;
+	display: none;
+}
+table{
+	color: black;
+    align-items: center;
+    text-align: center;
+    margin-left: 168px;
+    margin-right: 168px;
+    display: -webkit-inline-box;
+    margin-top: 32px;
+    margin-bottom: 38px;
+    background-color: #ffa435;
+    border-collapse: collapse;
+    border-color: #8b8585;
+}
+.trDias{
+	background-color: black;
+    color: white;
+}
+.trDiasNum{
+	font-weight: bold;
+	background-color: white;
+}
+.arroz, .ovoCoz, .carbo,.vitamin{
+	background-color: #8bad8b;
+}
+.feijao, .protein, .fibras{
+	background-color: white;
+}
+#observ{
+	color: #8bad8b;
+    font-size: 21px;
+    text-align: center;
+    margin-bottom: 35px;
+    margin-top: 35;
+    display: none;
+}
+.direitos{
+	font-size: 17px;
+	text-align: center;
+	margin-top: 45px;
+	margin-bottom: 10px;
+	color: white;
+
+}
